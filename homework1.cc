@@ -35,4 +35,3 @@ int main() {
     cout << "\nГотово! Результати в /Users/admin/HW1/Homework1/results/pi_monte_carlo_results.csv" << endl;
     return 0;
 }
-// final version
